@@ -1,2 +1,2 @@
-# Puplisher-subscriber
-A simple API for publisher-subscriber pattern
+# publisher-subscriber
+publisher-subscriber simple API
